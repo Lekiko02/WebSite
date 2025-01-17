@@ -24,6 +24,19 @@ document.querySelectorAll(".js-Programming").forEach((programmingItem) => {
 								<article>
 									<header>
 									
+										<h2><a href="https://github.com/Lekiko02/Portfolio-of-Advanced-Projects/tree/main/GitHub_%20Repository_Finder">GitHub Repository Finder<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Lekiko02/Portfolio-of-Advanced-Projects/tree/main/GitHub_%20Repository_Finder" class="image fit"><img width: 800px height: 400px src="images/github.gif" alt="" /></a>
+									<p>This project is a web application that allows users to explore GitHub repositories based on programming languages. It uses the GitHub API to fetch and display repositories sorted by popularity (stars). Users can select a programming language, view repository details, and refresh for new recommendations.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Lekiko02/Portfolio-of-Advanced-Projects/tree/main/GitHub_%20Repository_Finder" class="button">View Project</a></li>
+									</ul>
+								</article>
+
+								<article>
+									<header>
+									
 										<h2><a href="https://github.com/Lekiko02/Portfolio-of-Advanced-Projects/tree/main/Rock-Paper-scissors">Rock-Paper-scissors game<br />
 										</a></h2>
 									</header>
