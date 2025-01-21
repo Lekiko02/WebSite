@@ -48,24 +48,24 @@ document.querySelectorAll(".js-menu").forEach((menuItem) => {
 								<article>
 									<header>
 									
-										<h2><a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql">Data Exploration in SQL<br />
+										<h2><a href="https://github.com/Lekiko02/Data-analyst-project/tree/main/DataAnalysis_Project/MySQL/COVID%20Portfolio%20Project">Data Exploration in SQL<br />
 										</a></h2>
 									</header>
-									<a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql" class="image fit"><img src="images/covid.jpg" alt="" /></a>
+									<a href="https://github.com/Lekiko02/Data-analyst-project/tree/main/DataAnalysis_Project/MySQL/COVID%20Portfolio%20Project" class="image fit"><img src="images/covid.jpg" alt="" /></a>
 									<p>Data Exploration of Covid 19 Dataset in SQL Server.</p>
 									<ul class="actions special">
-										<li><a href="https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql" class="button">View Project</a></li>
+										<li><a href="https://github.com/Lekiko02/Data-analyst-project/tree/main/DataAnalysis_Project/MySQL/COVID%20Portfolio%20Project" class="button">View Project</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
-										<h2><a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0">Tableau Projects<br />
+										<h2><a href="https://public.tableau.com/app/profile/denis.sima/vizzes">Tableau Projects<br />
 										</a></h2>
 									</header>
-									<a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0" class="image fit"><img src="images/tableau.jpg" alt="" /></a>
+									<a href="https://public.tableau.com/app/profile/denis.sima/vizzes" class="image fit"><img src="images/tableau.jpg" alt="" /></a>
 									<p>This holds all of my Tableau Dashboards.</p>
 									<ul class="actions special">
-										<li><a href="https://public.tableau.com/profile/alexander.freberg#!/?newProfile=&activeTab=0" class="button">View Project</a></li>
+										<li><a href="https://public.tableau.com/app/profile/denis.sima/vizzes" class="button">View Project</a></li>
 									</ul>
 								</article>
 

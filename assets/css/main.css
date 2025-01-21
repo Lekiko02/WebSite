@@ -2944,6 +2944,10 @@ input, select, textarea {
 			margin-top: -0.75rem;
 		}
 
+		major ,img{
+			width:100%;
+		}
+
 		header.major {
 			margin: 0 0 4rem 0;
 			text-align: center;
